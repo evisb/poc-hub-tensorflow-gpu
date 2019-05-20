@@ -599,7 +599,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "name": "postgresql:9.6",
+                                "name": "postgresql:latest",
                                 "namespace": "openshift"
                             }
                         },
@@ -1175,7 +1175,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "name": "postgresql:9.6",
+                                "name": "postgresql:latest",
                                 "namespace": "openshift"
                             }
                         },
